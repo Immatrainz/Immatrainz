@@ -8,6 +8,6 @@
 
 ![React](https://img.shields.io/badge/-React-grey?logo=react&logoColor=61DAFB&style=for-the-badge) ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/-Express-black?logo=express&logoColor=ffffff&style=for-the-badge) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white&style=for-the-badge) ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black&style=for-the-badge)
 
-### Database:
+### Databases:
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?logo=postgresql&logoColor=4169E1&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
